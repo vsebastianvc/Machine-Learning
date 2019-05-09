@@ -3,12 +3,12 @@
 ## Prerequisites
 Be sure that you already has installed the next programs in your machine
 
-#Pyhton 3.7
-#Anaconda Navigator 1.9.2
-#Jupyter NoteBook 5.7.0
-#Keras 2.2.4
-#TensorFlow 1.12.0
-#Sklearn
+# Pyhton 3.7
+# Anaconda Navigator 1.9.2
+# Jupyter NoteBook 5.7.0
+# Keras 2.2.4
+# TensorFlow 1.12.0
+# Sklearn
 
 ## About Experiment 
 
@@ -18,6 +18,6 @@ We explored several Machine Learning algorithms including: K-nearest neighbor, L
 
 
 ## Authors
-#Daniel Guimaraes
-#Carlos Hernandez
-#Sebastian Valencia
+# Daniel Guimaraes
+# Carlos Hernandez
+# Sebastian Valencia
